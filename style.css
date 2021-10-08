@@ -1,0 +1,20 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+caption{
+    font-size: 140px;
+}
+table {
+    width: 1500px;
+    border: 1px solid rgb(28, 156, 28);
+
+}
+th{ font-size: 30px;
+
+    border: 1px solid rgb(156, 54, 28);
+}
+
+body{ 
+    background: radial-gradient(rgb(229, 255, 0) yellow );
+}
